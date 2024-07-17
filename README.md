@@ -35,7 +35,6 @@
 ## 每日任務
 
 - 更新新的 h5 檔案
-- `git push -u origin main`
 - `git add .`
 - `git commit -m "update by 20240708 23:22"`
 - `git push -u origin main`
